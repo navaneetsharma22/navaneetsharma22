@@ -1,168 +1,140 @@
-<h1 align="center">Hi 👋, I'm Navaneet Sharma</h1>
-<h3 align="center">
-🚀 Full Stack MERN Developer | React • Node.js • MongoDB
-</h3>
+<h1 align="center">
+  Hi 👋, I'm Navaneet Sharma
+</h1>
 
 <p align="center">
-I build scalable, high-performance web applications with clean architecture,  
-modern UI, and efficient backend systems.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full+Stack+MERN+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Scalable+Web+Applications;Clean+Code+%2B+Modern+UI" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=navaneetsharma22&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/badge/MERN-Stack-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-Developer-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Open%20to-Work-success?style=for-the-badge" />
 </p>
 
 ---
 
-## 💼 About Me
+## 💫 About Me
 
-- 👨‍💻 Full Stack Developer specializing in **MERN Stack**
-- ⚛️ Strong expertise in **React, Tailwind CSS & modern UI/UX**
-- 🔧 Skilled in building **REST APIs, authentication & backend logic**
-- 🧠 Focused on **scalable architecture & clean code practices**
-- 🌱 Currently improving **advanced React patterns & system design**
-- 📍 India | Open to opportunities  
-
----
-
-## 🚀 What I’m Currently Working On
-
-- 🔹 Building full-stack apps using **React + Node.js + MongoDB**
-- 🔹 Implementing **secure authentication (JWT)**
-- 🔹 Improving **state management & reusable components**
-- 🔹 Writing **clean, scalable production-ready code**
+🚀 Full Stack MERN Developer passionate about building scalable, high-performance applications  
+🎨 Strong focus on **modern UI/UX + clean frontend architecture**  
+🔧 Experienced in **backend APIs, authentication & database design**  
+🧠 Always improving **system design & advanced React patterns**  
+📍 India | Open to opportunities  
 
 ---
 
-## 🌐 Portfolio & Contact
+## 🚀 Currently Working On
 
-- 🔗 **GitHub:** https://github.com/navaneetsharma22  
-- 💼 **LinkedIn:** https://linkedin.com/in/navaneetsharma22  
-- 📫 **Email:** navaneetsharma22@gmail.com  
+- ⚡ Full-stack apps using **React + Node.js + MongoDB**
+- 🔐 Secure authentication systems (JWT)
+- ♻️ Reusable components & scalable architecture
+- 🧼 Writing clean, maintainable production code  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/navaneetsharma22">
+    <img src="https://img.shields.io/badge/LinkedIn-Navaneet-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:navaneetsharma22@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://github.com/navaneetsharma22">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🚀 Frontend
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,tailwind,html,css" />
 </p>
-
----
 
 ### ⚙️ Backend
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
-
-- Node.js  
-- Express.js  
-- REST API Development  
-- JWT Authentication  
-
----
 
 ### 🗄️ Database
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-- MongoDB  
-- MySQL  
-
----
-
-### 🧰 Tools & Platforms
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50"/>
-  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="50"/>
+### 🧰 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,postman" />
 </p>
-
-- Git & GitHub  
-- Vercel  
-- Postman  
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 Full-Stack E-Commerce Platform
-- Built using **MERN Stack**
-- Implemented **JWT authentication & protected routes**
-- Features:
-  - Product management  
-  - Cart & order system  
-  - Secure user authentication  
-- Focus: scalability, performance, and clean API structure  
+### 🔹 💬 Buddy Chat – Real-Time Chat App  
+🔗 https://buddy-chat-app-frontend-tsre.vercel.app/  
+
+✨ Real-time messaging application with instant updates  
+⚡ Smooth UI with dynamic state handling  
+📡 Focus on performance & low-latency communication  
+📱 Fully responsive modern chat interface  
 
 ---
 
-### 🔹 Password Generator Web App
-- Built with **JavaScript & React**
-- Features:
-  - Password strength indicator  
-  - Copy-to-clipboard  
-  - Custom rules (length, symbols, etc.)  
-- Focus: UI/UX + real-time functionality  
+### 🔹 🛍️ Ecomzy – Online Clothing Store  
+🔗 https://ecomzy-psi-flame.vercel.app/  
+
+🛒 Full-stack e-commerce platform  
+📦 Product listing, filtering & cart management  
+⚙️ Built with scalable component structure  
+📱 Optimized for all devices  
 
 ---
 
-## 🧠 Skills Summary
+### 🔹 🌦️ Weather Application  
+🔗 https://weatherapllication00.netlify.app/  
 
-- Full Stack Development (MERN)
-- REST API Design & Integration  
-- Authentication & Authorization  
-- Component-Based Architecture  
-- Responsive Design  
-- Clean Code & Best Practices  
-
----
-
-## 📈 GitHub Stats
-
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=navaneetsharma22&show_icons=true&theme=radical&hide_border=true" />
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navaneetsharma22&layout=compact&theme=radical&hide_border=true" />
-</td>
-</tr>
-</table>
+🌍 Real-time weather data using API integration  
+📊 Displays temperature, conditions & location  
+⚡ Async data handling with clean UI  
+📱 User-friendly and responsive design  
 
 ---
 
-## 🎓 Certifications
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=navaneetsharma22&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=navaneetsharma22&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧠 Skills
 
 - MERN Stack Development  
-- SQL Certification  
-
----
-
-## 💼 Open To Opportunities
-
-- 🚀 Full Stack Developer Roles  
-- 🤝 Internships / Entry-Level Positions  
-- 🌍 Remote Opportunities  
-- 🧠 Growth-Oriented Teams  
+- REST API Design  
+- Authentication (JWT)  
+- Responsive UI/UX  
+- Clean Code & Architecture  
 
 ---
 
 ## ✨ Developer Motto
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=800&lines=Build+Scalable+Apps.;Write+Clean+Code.;Keep+Learning+Everyday." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Build+Scalable+Apps.;Write+Clean+Code.;Never+Stop+Learning." />
 </p>
 
 ---
 
-⭐ If you find my work interesting, consider starring my repositories!
+<p align="center">
+  ⭐ If you like my work, consider starring my repositories!
+</p>
