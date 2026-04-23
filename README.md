@@ -33,6 +33,21 @@
 
 ---
 
+---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=navaneetsharma22&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=navaneetsharma22&theme=tokyonight&hide_border=true" />
+</p>
+
+
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -103,19 +118,7 @@
 ⚡ Async data handling with clean UI  
 📱 User-friendly and responsive design  
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=navaneetsharma22&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=navaneetsharma22&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 🧠 Skills
 
