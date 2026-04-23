@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Navaneet Sharma</h1>
 <h3 align="center">
-Frontend Developer from India 🇮🇳 | React • Tailwind • JavaScript
+🚀 Full Stack MERN Developer | React • Node.js • MongoDB
 </h3>
 
 <p align="center">
-I build responsive, user-friendly web applications with clean UI,  
-efficient performance, and scalable frontend architecture.
+I build scalable, high-performance web applications with clean architecture,  
+modern UI, and efficient backend systems.
 </p>
 
 <p align="center">
@@ -14,43 +14,31 @@ efficient performance, and scalable frontend architecture.
 
 ---
 
-## 🚀 About Me
+## 💼 About Me
 
-- 👨‍💻 Frontend Developer (React + Tailwind)
-- 🎨 Strong focus on **clean UI & UX**
-- ⚛️ Experience building **forms, dashboards & dynamic web apps**
-- 🌱 Currently improving **advanced React patterns**
-- 📍 Based in India | Open to opportunities
+- 👨‍💻 Full Stack Developer specializing in **MERN Stack**
+- ⚛️ Strong expertise in **React, Tailwind CSS & modern UI/UX**
+- 🔧 Skilled in building **REST APIs, authentication & backend logic**
+- 🧠 Focused on **scalable architecture & clean code practices**
+- 🌱 Currently improving **advanced React patterns & system design**
+- 📍 India | Open to opportunities  
 
 ---
 
-## ⚙️ What I’m Currently Working On
+## 🚀 What I’m Currently Working On
 
-- 🔹 React projects using **Vite**
+- 🔹 Building full-stack apps using **React + Node.js + MongoDB**
+- 🔹 Implementing **secure authentication (JWT)**
 - 🔹 Improving **state management & reusable components**
-- 🔹 Strengthening **JavaScript fundamentals**
-- 🔹 Writing cleaner, scalable frontend code
+- 🔹 Writing **clean, scalable production-ready code**
 
 ---
 
-## 🌐 Portfolio & Links
+## 🌐 Portfolio & Contact
 
 - 🔗 **GitHub:** https://github.com/navaneetsharma22  
-- 📫 **Email:** navaneetsharma22@gmail.com  
 - 💼 **LinkedIn:** https://linkedin.com/in/navaneetsharma22  
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/navaneetsharma22/">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
-</a>
-<a href="mailto:navaneetsharma22@gmail.com">
-  <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30"/>
-</a>
-</p>
+- 📫 **Email:** navaneetsharma22@gmail.com  
 
 ---
 
@@ -67,11 +55,16 @@ efficient performance, and scalable frontend architecture.
 
 ---
 
-### 🧠 Backend (Basic)
+### ⚙️ Backend
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50"/>
 </p>
+
+- Node.js  
+- Express.js  
+- REST API Development  
+- JWT Authentication  
 
 ---
 
@@ -80,6 +73,9 @@ efficient performance, and scalable frontend architecture.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/>
 </p>
+
+- MongoDB  
+- MySQL  
 
 ---
 
@@ -90,28 +86,43 @@ efficient performance, and scalable frontend architecture.
   <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="50"/>
 </p>
 
+- Git & GitHub  
+- Vercel  
+- Postman  
+
 ---
 
 ## 🚀 Featured Projects
 
-- 🔹 **Password Generator Web App**  
-  Responsive password generator with strength indicator, copy-to-clipboard,  
-  and customizable options using JavaScript & DOM manipulation.
+### 🔹 Full-Stack E-Commerce Platform
+- Built using **MERN Stack**
+- Implemented **JWT authentication & protected routes**
+- Features:
+  - Product management  
+  - Cart & order system  
+  - Secure user authentication  
+- Focus: scalability, performance, and clean API structure  
 
-- 🔹 **Full-Stack E-Commerce Website**  
-  MERN-based e-commerce platform with JWT authentication, cart management,  
-  product listing, and order handling.
+---
+
+### 🔹 Password Generator Web App
+- Built with **JavaScript & React**
+- Features:
+  - Password strength indicator  
+  - Copy-to-clipboard  
+  - Custom rules (length, symbols, etc.)  
+- Focus: UI/UX + real-time functionality  
 
 ---
 
 ## 🧠 Skills Summary
 
-- JavaScript (ES6+)
-- React.js & Component Architecture
-- Tailwind CSS
-- REST API Integration
-- Git & GitHub
-- Responsive Design
+- Full Stack Development (MERN)
+- REST API Design & Integration  
+- Authentication & Authorization  
+- Component-Based Architecture  
+- Responsive Design  
+- Clean Code & Best Practices  
 
 ---
 
@@ -132,26 +143,26 @@ efficient performance, and scalable frontend architecture.
 
 ## 🎓 Certifications
 
-- MERN Stack Development
-- SQL Certification
+- MERN Stack Development  
+- SQL Certification  
 
 ---
 
-## 💼 Open To
+## 💼 Open To Opportunities
 
-- 🚀 Frontend Developer Roles
-- 🤝 Internship / Entry-level Opportunities
-- 🌍 Remote Jobs
-- 🧠 Learning-focused Teams
+- 🚀 Full Stack Developer Roles  
+- 🤝 Internships / Entry-Level Positions  
+- 🌍 Remote Opportunities  
+- 🧠 Growth-Oriented Teams  
 
 ---
 
 ## ✨ Developer Motto
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=800&lines=Learn+every+day.;Write+clean+code.;Build+useful+products." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=800&lines=Build+Scalable+Apps.;Write+Clean+Code.;Keep+Learning+Everyday." />
 </p>
 
 ---
 
-⭐ If you like my work, consider starring my repositories!
+⭐ If you find my work interesting, consider starring my repositories!
