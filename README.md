@@ -91,7 +91,7 @@ I am currently seeking **Full-Time Software Engineering** opportunities and am a
 
 | 📄 Resume | 📧 Direct Mail | 💼 LinkedIn |
 | :--- | :--- | :--- |
-| [**Download/View**](REPLACE_WITH_YOUR_LINK) | [**Get in Touch**](mailto:navaneetsharma22@gmail.com) | [**Connect**](https://linkedin.com/in/navaneetsharma22) |
+| [**Download/View**](https://drive.google.com/file/d/1qENiC-iK_37H9iNshGqTMC50kf0tojJg/view) | [**Get in Touch**](mailto:navaneetsharma22@gmail.com) | [**Connect**](https://linkedin.com/in/navaneetsharma22) |
 
 <br />
 
