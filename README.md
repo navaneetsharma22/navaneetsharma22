@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 # ⚡ Navaneet Sharma
 **Full Stack Engineer | MERN Specialist | UI/UX Enthusiast**
 
@@ -19,8 +19,8 @@
 ## 🚀 The Developer Persona
 I am a **Full Stack Developer** specializing in the MERN ecosystem. I don't just write code; I architect solutions. From optimizing database queries in MongoDB to crafting fluid animations in React, I bridge the gap between complex logic and beautiful design.
 
-*   🔭 **Currently working on:** Advanced Microservices architecture.
-*   🌱 **Learning:** Cloud Deployment (AWS) and System Design Patterns.
+*   🔭 **Currently working on:** Advanced Microservices & Scalable Architectures.
+*   🌱 **Learning:** Cloud Infrastructure (AWS/Docker) and Advanced System Design.
 *   💬 **Ask me about:** React state management, JWT security, and UI responsiveness.
 *   ✉️ **Availability:** Open to Full-time opportunities & high-impact internships.
 
@@ -48,7 +48,7 @@ I am a **Full Stack Developer** specializing in the MERN ecosystem. I don't just
       <h4>🧠 Core Competencies</h4>
       <ul>
         <li>RESTful API Design & Integration</li>
-        <li>Authentication (JWT / OAuth)</li>
+        <li>Secure Authentication (JWT / OAuth)</li>
         <li>State Management (Redux / Context API)</li>
       </ul>
     </td>
@@ -60,23 +60,23 @@ I am a **Full Stack Developer** specializing in the MERN ecosystem. I don't just
 ## 🌟 High-Impact Projects
 
 ### 💬 Buddy Chat | [Live Demo](https://buddy-chat-app-frontend-tsre.vercel.app/)
-> **The Challenge:** Building a real-time environment with zero lag.
+> **The Challenge:** Building a real-time environment with zero latency.
 - **Solution:** Leveraged **Socket.io** for bi-directional communication.
-- **Impact:** Created a fully responsive, secure chat interface with real-time "typing" indicators and online status tracking.
+- **Impact:** Created a fully responsive chat interface with real-time "typing" indicators and secure message history.
 
 ### 🛍️ Ecomzy Store | [Live Demo](https://ecomzy-psi-flame.vercel.app/)
-> **The Challenge:** Handling complex state across multiple product categories.
-- **Solution:** Implemented **Redux Toolkit** for centralized state management.
+> **The Challenge:** Handling complex state across dynamic product categories.
+- **Solution:** Implemented **Redux Toolkit** for robust centralized state management.
 - **Impact:** Achieved high Lighthouse performance scores and a seamless "Add to Cart" UX.
 
 ### 🌦️ WeatherSphere | [Live Demo](https://weatherapllication00.netlify.app/)
-> **The Challenge:** Managing asynchronous API calls with elegant error handling.
-- **Solution:** Built a custom React hook to manage OpenWeather data fetching.
-- **Impact:** Provides real-time geolocation-based updates with a dynamic UI that changes based on weather conditions.
+> **The Challenge:** Managing asynchronous API data with elegant error handling.
+- **Solution:** Built custom React hooks for efficient OpenWeather data fetching.
+- **Impact:** Real-time geolocation updates with a dynamic UI that adjusts based on weather conditions.
 
 ---
 
-## 📊 Performance Metrics
+## 📊 GitHub Insights
 
 <p align="center">
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=navaneetsharma22&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
@@ -86,10 +86,18 @@ I am a **Full Stack Developer** specializing in the MERN ecosystem. I don't just
 ---
 
 ## 🤝 Let's Build Something Great
-I'm always open to collaborating on open-source projects or discussing new technical challenges. 
 
-- **Portfolio:** [Coming Soon]
-- **Resume:** [Available upon request]
+I am currently seeking **Full-Time Software Engineering** opportunities and am always open to contributing to impactful Open Source projects. Whether you have a technical question or a project proposal, my inbox is always open.
+
+| 📄 Resume | 📧 Direct Mail | 💼 LinkedIn |
+| :--- | :--- | :--- |
+| [**Download/View**](REPLACE_WITH_YOUR_LINK) | [**Get in Touch**](mailto:navaneetsharma22@gmail.com) | [**Connect**](https://linkedin.com/in/navaneetsharma22) |
+
+<br />
+
+<p align="center">
+  <i>"Code is poetry, and I'm here to write a bestseller."</i>
+</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=100&section=footer" width="100%"/>
