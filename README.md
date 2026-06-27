@@ -3,26 +3,34 @@
 # ⚡ Navaneet Sharma
 **Full Stack Engineer | MERN Specialist | UI/UX Enthusiast**
 
-  <p align="center">
-    <a href="https://linkedin.com/in/navaneetsharma22"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:navaneetsharma22@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://github.com/navaneetsharma22"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  </p>
+<p align="center">
+  <a href="https://linkedin.com/in/navaneetsharma22">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:navaneetsharma22@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/navaneetsharma22">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Production-Ready+Apps;Architecting+Scalable+Backends;Mastering+The+MERN+Stack;Designing+Modern+User+Experiences)
 
 ---
+
 </div>
 
 ## 🚀 The Developer Persona
+
 I am a **Full Stack Developer** specializing in the MERN ecosystem. I don't just write code; I architect solutions. From optimizing database queries in MongoDB to crafting fluid animations in React, I bridge the gap between complex logic and beautiful design.
 
-*   🔭 **Currently working on:** Advanced Microservices & Scalable Architectures.
-*   🌱 **Learning:** Cloud Infrastructure (AWS/Docker) and Advanced System Design.
-*   💬 **Ask me about:** React state management, JWT security, and UI responsiveness.
-*   ✉️ **Availability:** Open to Full-time opportunities & high-impact internships.
+- 🔭 **Currently working on:** Advanced Microservices & Scalable Architectures.
+- 🌱 **Learning:** Cloud Infrastructure (AWS/Docker) and Advanced System Design.
+- 💬 **Ask me about:** React state management, JWT security, and UI responsiveness.
+- ✉️ **Availability:** Open to Full-time opportunities & high-impact internships.
 
 ---
 
@@ -60,17 +68,23 @@ I am a **Full Stack Developer** specializing in the MERN ecosystem. I don't just
 ## 🌟 High-Impact Projects
 
 ### 💬 Buddy Chat | [Live Demo](https://buddy-chat-app-frontend-tsre.vercel.app/)
+
 > **The Challenge:** Building a real-time environment with zero latency.
+
 - **Solution:** Leveraged **Socket.io** for bi-directional communication.
-- **Impact:** Created a fully responsive chat interface with real-time "typing" indicators and secure message history.
+- **Impact:** Created a fully responsive chat interface with real-time typing indicators and secure message history.
 
 ### 🛍️ Ecomzy Store | [Live Demo](https://ecomzy-psi-flame.vercel.app/)
+
 > **The Challenge:** Handling complex state across dynamic product categories.
+
 - **Solution:** Implemented **Redux Toolkit** for robust centralized state management.
-- **Impact:** Achieved high Lighthouse performance scores and a seamless "Add to Cart" UX.
+- **Impact:** Achieved high Lighthouse performance scores and a seamless Add to Cart UX.
 
 ### 🌦️ WeatherSphere | [Live Demo](https://weatherapllication00.netlify.app/)
+
 > **The Challenge:** Managing asynchronous API data with elegant error handling.
+
 - **Solution:** Built custom React hooks for efficient OpenWeather data fetching.
 - **Impact:** Real-time geolocation updates with a dynamic UI that adjusts based on weather conditions.
 
@@ -79,8 +93,8 @@ I am a **Full Stack Developer** specializing in the MERN ecosystem. I don't just
 ## 📊 GitHub Insights
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=navaneetsharma22&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=navaneetsharma22&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=navaneetsharma22&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=navaneetsharma22&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -100,5 +114,5 @@ I am currently seeking **Full-Time Software Engineering** opportunities and am a
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=120&color=0:0EA5E9,50:38BDF8,100:0EA5E9&section=footer" width="100%" />
 </div>
