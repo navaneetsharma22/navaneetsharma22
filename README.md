@@ -14,6 +14,9 @@
   <a href="https://github.com/navaneetsharma22">
     <img src="https://img.shields.io/badge/GitHub-33465C?style=flat-square&logo=github&logoColor=white" />
   </a>
+  <a href="https://www.navaneetsharma.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-33465C?style=flat-square&logo=googlechrome&logoColor=white" />
+  </a>
 </p>
 
 *Building production-ready applications across the MERN stack.*
@@ -96,12 +99,14 @@ I'm a **Full Stack Developer** specializing in the MERN ecosystem. I don't just 
 
 I'm currently seeking full-time software engineering opportunities and am open to contributing to impactful open-source projects. Feel free to reach out with a technical question or a project proposal.
 
-| Resume | Email | LinkedIn |
-| :--- | :--- | :--- |
-| [Download/View](https://drive.google.com/file/d/1qENiC-iK_37H9iNshGqTMC50kf0tojJg/view) | [Get in Touch](mailto:navaneetsharma22@gmail.com) | [Connect](https://linkedin.com/in/navaneetsharma22) |
+| Portfolio | Resume | Email | LinkedIn |
+| :--- | :--- | :--- | :--- |
+| [Visit Site](https://www.navaneetsharma.dev/) | [Download/View](https://drive.google.com/file/d/1qENiC-iK_37H9iNshGqTMC50kf0tojJg/view) | [Get in Touch](mailto:navaneetsharma22@gmail.com) | [Connect](https://linkedin.com/in/navaneetsharma22) |
 
 <br>
 
 <div align="center">
-<sub>Navaneet Sharma &nbsp;·&nbsp; Full Stack Engineer</sub>
+
+<sub>Navaneet Sharma &nbsp;&middot;&nbsp; Full Stack Engineer &nbsp;&middot;&nbsp; <a href="https://www.navaneetsharma.dev/">navaneetsharma.dev</a></sub>
+
 </div>
